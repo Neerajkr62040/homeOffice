@@ -1,0 +1,494 @@
+[
+  {
+      "tssrReference": "TSSRC2563",
+      "candidateInfo": {
+          "candidateFirstName": "Virat",
+          "candidateMiddleName": "Shah",
+          "candidateFamilyName": "Manpreet",
+          "nationality": "Indian",
+          "passportNumber": "XXXXXXXXXXXX",
+          "passportIssuingAuthority": "The Ministry of External Affairs (MEA)",
+          "passportIssuingDate": "22-08-2017",
+          "passportExpiryDate": "22-08-2027",
+          "currentAddress": "123, ABC Street, Kolkata, West Bengal, India",
+          "dateOfBirth": "22-02-1993",
+          "sex": "Male"
+      },
+      "jobDetails": {
+          "tssrReference": "TSSRC2563",
+          "talentMatchScore": "85%",
+          "businessName": "ABC",
+          "sponsorshipLicenseNumber": "XXXXXXXXXXXX",
+          "jobOwner": "Williams",
+          "socCode": "2138",
+          "jobTitle": "Performance Tester",
+          "jobCategory": "Senior",
+          "jobDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos nam est perspiciatis blanditiis commodi dicta iste molestias accusamus voluptatibus in. Maxime doloribus quo reiciendis magnam minus, ipsam perspiciatis illum cupiditate assumenda enim ut a atque tempore sit aspernatur dicta accusantium labore aliquam temporibus rerum odit illo quia odio quidem. Itaque.",
+          "responsibilities": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatibus molestiae inventore dolores aspernatur reiciendis quas ad perspiciatis! Ea dolorum officiis autem, unde laborum, recusandae dignissimos architecto laudantium enim saepe ducimus aliquam. At, debitis? Impedit commodi labore recusandae ex est, ipsum architecto voluptatem. Exercitationem aliquam libero ratione aperiam esse corrupti consequuntur nesciunt at necessitatibus illum dicta id assumenda dolore odit aspernatur expedita, quidem fuga, voluptatibus corporis alias ab. Beatae esse laboriosam sapiente totam culpa, pariatur iure repellat dolorem numquam!",
+          "requirements": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, facere voluptates ab alias perspiciatis quo dolorum doloribus facilis numquam molestiae nesciunt recusandae voluptas ullam enim nam veniam ut provident iure autem labore, libero laudantium magni. Eos tempora id sit voluptatum suscipit magnam commodi, debitis sequi esse vitae quis distinctio eaque dolor facere? Repellendus pariatur dolores unde qui provident veritatis neque placeat nemo temporibus rem quidem, dignissimos sunt minus iste in ullam numquam nam omnis ducimus recusandae, veniam, eveniet vel ratione officiis. Mollitia suscipit tempora voluptatum rem tenetur tempore officiis recusandae! A dolores ullam quisquam inventore laborum earum aut molestias accusamus.",
+          "jobRequirementId": "SOC-NOC-SBartlettav-TJF-Random string",
+          "numberOfPositions": 3,
+          "candidateSourcedBy": "ITRFG",
+          "publishSalary": "42300 GBP Per annum",
+          "salaryOffered": "42300 GBP Per annum",
+          "agreedStartDate": "5-10-2024",
+          "workPatternAgreed": "Yes",
+          "workLocationAgreed": "Yes",
+          "totalWorkingHoursPerWeek": "37.5 hours per week",
+          "entryClearanceVisaRelatedNotes": "Yes (5-09-2024)",
+          "otherNotesByHR": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus ut dolore quo maiores quibusdam cupiditate autem est expedita, minus magnam ad, fugiat similique praesentium libero delectus tenetur at laudantium aspernatur maxime omnis ducimus rem, dolorem eveniet? Exercitationem corporis sapiente magni rem, asperiores iure obcaecati velit quia architecto sed voluptatibus cupiditate odit quas voluptate, commodi culpa voluptatem repellendus at atque nulla pariatur ab similique. Expedita veniam fugit minus excepturi accusantium? Ducimus laudantium praesentium, eaque suscipit illum sit quibusdam quaerat aliquid recusandae voluptates. Dolorum laboriosam velit iure reprehenderit, dignissimos, laudantium ut sit, delectus hic distinctio doloremque. Omnis qui itaque exercitationem culpa laboriosam."
+      },
+      "mandateSkills": [
+          {
+              "subject": "JMeter",
+              "expRequired": "5/5",
+              "aiScore": "85%",
+              "cceNotes": "@david215",
+              "remarks": "Accepted",
+              "questions": [
+                  {
+                      "questionText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+                      "options": [
+                          "Lorem ipsum",
+                          "Lorem",
+                          "Lorem ipsum",
+                          "Lorem ipsum"
+                      ],
+                      "chosenOption": "Lorem ipsum",
+                      "correctOption": "Lorem ipsum"
+                  },
+                  {
+                      "questionText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+                      "options": [
+                          "Lorem",
+                          "Lorem",
+                          "Lorem",
+                          "Lorem"
+                      ],
+                      "chosenOption": "Lorem",
+                      "correctOption": "Lorem"
+                  },
+                  {
+                      "questionText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+                      "options": [
+                          "Lorem",
+                          "Lorem",
+                          "Lorem",
+                          "Lorem"
+                      ],
+                      "chosenOption": "Lorem",
+                      "correctOption": "Lorem"
+                  },
+                  {
+                      "questionText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+                      "options": [
+                          "Lorem ipsum",
+                          "Lorem ipsum",
+                          "Lorem ipsum",
+                          "Lorem ipsum"
+                      ],
+                      "chosenOption": "Lorem ipsum",
+                      "correctOption": "Lorem ipsum"
+                  }
+              ]
+          },
+          {
+              "subject": "LoadRunner",
+              "expRequired": "5/5",
+              "aiScore": "91%",
+              "cceNotes": "@rich482",
+              "remarks": "Accepted",
+              "questions": [
+                  {
+                      "questionText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+                      "options": [
+                          "Lorem ipsum",
+                          "Lorem",
+                          "Lorem ipsum",
+                          "Lorem ipsum"
+                      ],
+                      "chosenOption": "Lorem ipsum",
+                      "correctOption": "Lorem ipsum"
+                  },
+                  {
+                      "questionText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+                      "options": [
+                          "Lorem",
+                          "Lorem",
+                          "Lorem",
+                          "Lorem"
+                      ],
+                      "chosenOption": "Lorem",
+                      "correctOption": "Lorem"
+                  },
+                  {
+                      "questionText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+                      "options": [
+                          "Lorem",
+                          "Lorem",
+                          "Lorem",
+                          "Lorem"
+                      ],
+                      "chosenOption": "Lorem",
+                      "correctOption": "Lorem"
+                  },
+                  {
+                      "questionText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+                      "options": [
+                          "Lorem ipsum",
+                          "Lorem ipsum",
+                          "Lorem ipsum",
+                          "Lorem ipsum"
+                      ],
+                      "chosenOption": "Lorem ipsum",
+                      "correctOption": "Lorem ipsum"
+                  }
+              ]
+          },
+          {
+              "subject": "Gatling",
+              "expRequired": "5/3",
+              "aiScore": "73%",
+              "cceNotes": "@david215",
+              "remarks": "Accepted",
+              "questions": [
+                  {
+                      "questionText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+                      "options": [
+                          "Lorem ipsum",
+                          "Lorem",
+                          "Lorem ipsum",
+                          "Lorem ipsum"
+                      ],
+                      "chosenOption": "Lorem ipsum",
+                      "correctOption": "Lorem ipsum"
+                  },
+                  {
+                      "questionText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+                      "options": [
+                          "Lorem",
+                          "Lorem",
+                          "Lorem",
+                          "Lorem"
+                      ],
+                      "chosenOption": "Lorem",
+                      "correctOption": "Lorem"
+                  },
+                  {
+                      "questionText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+                      "options": [
+                          "Lorem",
+                          "Lorem",
+                          "Lorem",
+                          "Lorem"
+                      ],
+                      "chosenOption": "Lorem",
+                      "correctOption": "Lorem"
+                  },
+                  {
+                      "questionText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+                      "options": [
+                          "Lorem ipsum",
+                          "Lorem ipsum",
+                          "Lorem ipsum",
+                          "Lorem ipsum"
+                      ],
+                      "chosenOption": "Lorem ipsum",
+                      "correctOption": "Lorem ipsum"
+                  }
+              ]
+          },
+          {
+              "subject": "JavaScript",
+              "expRequired": "5/4",
+              "aiScore": "89%",
+              "cceNotes": "@chris555",
+              "remarks": "Accepted",
+              "questions": [
+                  {
+                      "questionText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+                      "options": [
+                          "Lorem ipsum",
+                          "Lorem",
+                          "Lorem ipsum",
+                          "Lorem ipsum"
+                      ],
+                      "chosenOption": "Lorem ipsum",
+                      "correctOption": "Lorem ipsum"
+                  },
+                  {
+                      "questionText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+                      "options": [
+                          "Lorem",
+                          "Lorem",
+                          "Lorem",
+                          "Lorem"
+                      ],
+                      "chosenOption": "Lorem",
+                      "correctOption": "Lorem"
+                  },
+                  {
+                      "questionText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+                      "options": [
+                          "Lorem",
+                          "Lorem",
+                          "Lorem",
+                          "Lorem"
+                      ],
+                      "chosenOption": "Lorem",
+                      "correctOption": "Lorem"
+                  },
+                  {
+                      "questionText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+                      "options": [
+                          "Lorem ipsum",
+                          "Lorem ipsum",
+                          "Lorem ipsum",
+                          "Lorem ipsum"
+                      ],
+                      "chosenOption": "Lorem ipsum",
+                      "correctOption": "Lorem ipsum"
+                  }
+              ]
+          },
+          {
+              "subject": "Python",
+              "expRequired": "5/3",
+              "aiScore": "70%",
+              "cceNotes": "@chris555",
+              "remarks": "Accepted",
+              "questions": [
+                  {
+                      "questionText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+                      "options": [
+                          "Lorem ipsum",
+                          "Lorem",
+                          "Lorem ipsum",
+                          "Lorem ipsum"
+                      ],
+                      "chosenOption": "Lorem ipsum",
+                      "correctOption": "Lorem ipsum"
+                  },
+                  {
+                      "questionText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+                      "options": [
+                          "Lorem",
+                          "Lorem",
+                          "Lorem",
+                          "Lorem"
+                      ],
+                      "chosenOption": "Lorem",
+                      "correctOption": "Lorem"
+                  },
+                  {
+                      "questionText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+                      "options": [
+                          "Lorem",
+                          "Lorem",
+                          "Lorem",
+                          "Lorem"
+                      ],
+                      "chosenOption": "Lorem",
+                      "correctOption": "Lorem"
+                  },
+                  {
+                      "questionText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+                      "options": [
+                          "Lorem ipsum",
+                          "Lorem ipsum",
+                          "Lorem ipsum",
+                          "Lorem ipsum"
+                      ],
+                      "chosenOption": "Lorem ipsum",
+                      "correctOption": "Lorem ipsum"
+                  }
+              ]
+          }
+      ],
+      "educationalQualifications": [
+          {
+              "category": "Educational qualifications",
+              "qualificationDemanded": "Bachelor's degree in Computer Science",
+              "qualificationClaimed": "Yes",
+              "attachments": "View",
+              "hrNotes": {
+                  "hrName": "@tinar968",
+                  "notes": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, tempore doloremque molestias non illo voluptatum, est, dolor quasi velit nam magnam expedita aut aliquam culpa fugit perspiciatis. Dignissimos numquam illum eius maiores!"
+              },
+              "remarks": "Accepted"
+          },
+          {
+              "category": "Educational qualifications",
+              "qualificationDemanded": "Master's degree",
+              "qualificationClaimed": "Yes",
+              "attachments": "View",
+              "hrNotes": {
+                  "hrName": "@tinar968",
+                  "notes": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, tempore doloremque molestias non illo voluptatum, est, dolor quasi velit nam magnam expedita aut aliquam culpa fugit perspiciatis. Dignissimos numquam illum eius maiores!"
+              },
+              "remarks": "Accepted"
+          }
+      ],
+      "professionalQualifications": [
+          {
+              "category": "Professional Qualifications/Certifications",
+              "qualificationDemanded": "JMeter, LoadRunner",
+              "qualificationClaimed": "Yes",
+              "attachments": "View",
+              "hrNotes": {
+                  "hrName": "@tinar968",
+                  "notes": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, tempore doloremque molestias non illo voluptatum, est, dolor quasi velit nam magnam expedita aut aliquam culpa fugit perspiciatis. Dignissimos numquam illum eius maiores!"
+              },
+              "remarks": "Accepted"
+          },
+          {
+              "category": "Professional Qualifications/Certifications",
+              "qualificationDemanded": "ISTQB Performance Testing Certification",
+              "qualificationClaimed": "Yes",
+              "attachments": "View",
+              "hrNotes": {
+                  "hrName": "@tinar968",
+                  "notes": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, tempore doloremque molestias non illo voluptatum, est, dolor quasi velit nam magnam expedita aut aliquam culpa fugit perspiciatis. Dignissimos numquam illum eius maiores!"
+              },
+              "remarks": "Accepted"
+          }
+      ],
+      "professionalToolsExperience": [
+          {
+              "category": "Professional Tools Experience",
+              "toolsDemanded": "JMeter",
+              "experienceClaimed": "5/5",
+              "aiScore": "51%",
+              "cceNotes": {
+                  "cceName": "@david215",
+                  "notes": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, tempore doloremque molestias non illo voluptatum, est, dolor quasi velit nam magnam expedita aut aliquam culpa fugit perspiciatis. Dignissimos numquam illum eius maiores!"
+              },
+              "remarks": "Accepted"
+          },
+          {
+              "category": "Professional Tools Experience",
+              "toolsDemanded": "LoadRunner",
+              "experienceClaimed": "5/5",
+              "aiScore": "58%",
+              "cceNotes": {
+                  "cceName": "@rich428",
+                  "notes": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, tempore doloremque molestias non illo voluptatum, est, dolor quasi velit nam magnam expedita aut aliquam culpa fugit perspiciatis. Dignissimos numquam illum eius maiores!"
+              },
+              "remarks": "Accepted"
+          }
+      ],
+      "otherPaperwork": {
+          "category": "Other paper work required, if any!",
+          "hrName": "@tinar968",
+          "notes": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laudantium neque perspiciatis, velit, dolores provident eos veniam voluptates sunt dolorum amet est! Accusantium, iusto nemo, veritatis odit aut maiores dolor, minus dicta animi reiciendis corrupti natus voluptate! Mollitia architecto blanditiis ut sequi fuga reiciendis necessitatibus dignissimos cum! Aspernatur voluptate reiciendis, ea rem labore id laboriosam aliquam, consectetur optio eveniet beatae, quas quia porro sint natus laborum veritatis explicabo corrupti officia cupiditate facere vitae et quisquam eum. Aliquam illum neque repudiandae delectus cupiditate corporis, dolore corrupti, architecto ab ratione consequatur autem nemo rem placeat adipisci odit accusantium ut nesciunt error debitis voluptatum.",
+          "remarks": ""
+      },
+      "rimtInformation": [
+          {
+              "mediumName": "ITRFG",
+              "density": "Nationwide",
+              "startDate": "12th June 2024",
+              "endDate": "12th Sep 2024",
+              "totalCVs": "150"
+          },
+          {
+              "mediumName": "ITRFG",
+              "density": "Nationwide",
+              "startDate": "12th June 2024",
+              "endDate": "12th Sep 2024",
+              "totalCVs": "150"
+          }
+      ],
+      "meetingHistory": [
+          {
+              "meeting_name": "Lorem ipsum ",
+              "date": "22-07-2024",
+              "organizer": "216. CCE"
+          },
+          {
+              "meeting_name": "Lorem ipsum ",
+              "date": "22-07-2024",
+              "organizer": "ch420CCE"
+          },
+          {
+              "meeting_name": "Lorem ipsum ",
+              "date": "22-07-2024",
+              "organizer": "@chris655 CCE"
+          },
+          {
+              "meeting_name": "Lorem ipsum",
+              "date": "22-07-2024",
+              "organizer": "ChESE CCE"
+          },
+          {
+              "meeting_name": "Lorem ipsum",
+              "date": "22-07-2024",
+              "organizer": "davit216 CCE"
+          },
+          {
+              "meeting_name": "Lorem ipsum",
+              "date": "22-07-2024",
+              "organizer": "david218 CCE"
+          },
+          {
+              "meeting_name": "Loren ipsum",
+              "date": "22-07-2024",
+              "organizer": "nar960 HR"
+          }
+      ],
+      "authors" : [
+          {
+              "name": "Willaims (Job title)",
+              "title": "AO"
+          },
+          {
+              "name": "Noah (Job title)",
+              "title": "KC"
+          },
+          {
+              "name": "Alexander (Job title)",
+              "title": "L1"
+          },
+          {
+              "name": "David (Job title) Richard (Job title) Christopher (Job title)",
+              "title": "CCE"
+          },
+          {
+              "name": "Tina",
+              "title": "HR"
+          },
+          {
+              "name": "Virat Shah Manpreet",
+              "title": "Employee"
+          }
+      ],
+      "additionalSkill": [
+          {
+              "skill": "Skill Name",
+              "exp": "Experience"
+              
+          },
+          {
+              "skill": "Skill Name",
+              "exp": "Experience"
+              
+          },
+          {
+              "skill": "Skill Name",
+              "exp": "Experience"
+              
+          },
+          {
+              "skill": "Skill Name",
+              "exp": "Experience"
+              
+          },
+          {
+              "skill": "Skill Name",
+              "exp": "Experience"
+              
+          }
+          
+      ]
+  }
+]

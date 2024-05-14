@@ -1,0 +1,595 @@
+[
+  {
+      "tssrReference": "TSSR-2024-04-25-001",
+      "candidateInfo": {
+          "candidateFirstName": "Ravi",
+          "candidateMiddleName": "Sundhar",
+          "candidateFamilyName": "Reddy",
+          "nationality": "Indian",
+          "passportIssuingAuthority": "Bengaluru Passport Office",
+          "passportNumber": "ABC123456",
+          "passportIssuingDate": "01-09-2020",
+          "passportExpiryDate": "01-09-2030",
+          "dateOfBirth": "20-10-1985",
+          "currentAddress": "Bengaluru, India",
+          "sex": "Male"
+      },
+      "jobDetails": {
+          "tssrReference": "TSSR-2024-04-25-001",
+          "talentMatchScore": "85%",
+          "businessName": "<<Name of the Business with Sponsorship license>>",
+          "jobTitle": "Software Engineer",
+          "jobCategory": "Information Technology",
+          "jobOwner": "Michael Smith",
+          "sponsorshipLicenseNumber": "9876543210",
+          "socCode": "SOC - 2134",
+          "jobDescription": 
+          "Job Summary: As a Senior Software Engineer, you will be a key contributor to our software development team, responsible for designing, implementing, and maintaining complex software solutions. Leveraging your extensive experience and expertise in software engineering, you will play a crucial role in the entire software development lifecycle, from conceptualization and design to deployment and maintenance. You will collaborate closely with cross-functional teams, including product managers, designers, and fellow engineers, to deliver high-quality, scalable, and robust software solutions that meet the needs of our customers and business objectives.",
+          "responsibilities": 
+          "1.Software Design and Architecture: Lead the design and architecture of software systems, ensuring scalability, reliability, and performance.\n2.Coding and Development: Develop high-quality, efficient, and maintainable code in accordance with best practices and coding standards.\n3.Technical Leadership: Provide technical leadership and guidance to junior engineers, mentoring them in software development best practices and methodologies.\n4.Code Reviews: Conduct thorough code reviews to ensure code quality, adherence to coding standards, and knowledge sharing within the team.\n5.Collaboration: Collaborate closely with cross-functional teams, including product managers, designers, and QA engineers, to understand requirements and deliver solutions that meet customer needs.\n6.Problem Solving: Troubleshoot and resolve complex technical issues, identifying root causes and implementing effective solutions.\n7.Continuous Improvement: Proactively identify opportunities for process improvement, optimization, and automation to enhance productivity and efficiency.\n8.Documentation: Create and maintain technical documentation, including design documents, architecture diagrams, and code comments, to ensure clarity and maintainability of software systems.\n9.Technology Evaluation: Stay abreast of emerging technologies and industry trends, evaluating their potential impact on our software solutions and recommending adoption where appropriate.\n10.Compliance and Security: Ensure compliance with relevant regulations and standards, as well as adherence to security best practices, in all software development activities",
+          "requirements": "",
+          "jobRequirementId": "JOB-2024-SS-001",
+          "numberOfPositions": "2",
+          "candidateSourcedBy": "<<The job publishing medium name, from where the candidate been sourced/identified>>",
+          "publishedSalary": "GBP 65000/Year",
+          "salaryOffered": "GBP 65000/Year",
+          "workPatternAgreed": 
+          "1. To work as part of inhouse existing team\n2. Inhouse solo assignment\n3. Onsite Client assignment (solo assignment)\n4. Onsite Client assignment (With our team)\n5. Onsite Client assignment (With external team)\n",
+          "agreedStartDate": "01-12-2024",
+          "workLocationAgreed": "1. Inhouse - Main office address (Full time)\n2. Client location address (Full time)\n3. Remote/Flexible – Working from home with on demand visits to Main site\n4. Remote/Flexible – Working from home with on demand visits to client site\n5. Remote/Flexible – Working from home with on demand visits to Main site and client site\n6. Others – please specify",
+          "totalWorkingHoursPerWeek": "40 hours",
+          "entryClearanceVisaRelatedNotes": "<<Candidate do not have current permission to enter/stay in UK. Hence we need to sponsor the candidate - DCoS>>",
+          "otherNotesByHR": "Candidate has 3 years of experience within UK in past"
+      },
+      "mandateSkills": [
+        {
+            "subject": "Test Planning",
+            "expRequired": "3/2",
+            "aiScore": "85%",
+            "cceNotes": "Richard Luis (Senior Software Engineer) (CCE)\nHighlights - Time Stamps > 2m:25s, 3m:13s, 15m:16s",
+            "remarks": "Meets requirements",
+            "AO/KC/LI": "@david215",
+            "questions": [
+                {
+                    "questionText": "Which of the following is NOT a primary goal of IT test planning?",
+                    "correctOption": "C) Estimating the total cost of the project",
+                    "options": [
+                        "A) Ensuring the software meets functional requirements",
+                        "B) Identifying risks and mitigation strategies",
+                        "C) Estimating the total cost of the project",
+                        "D) Defining the scope and objectives of testing"
+                    ],
+                    "chosenOption": null,
+                    "incorrectOption_explanation": "Options A, B, and D are all part of IT test planning. Estimating the total cost of the project is typically done during project planning, not specifically test planning."
+                },
+                {
+                    "questionText": "What is the purpose of a test plan in IT projects?",
+                    "correctOption": "D) To evaluate user feedback",
+                    "options": [
+                        "A) To outline the schedule for coding",
+                        "B) To identify the resources needed for testing",
+                        "C) To document the software design",
+                        "D) To evaluate user feedback"
+                    ],
+                    "chosenOption": null,
+                    "incorrectOption_explanation": "While options A, B, and C might be indirectly related to testing, the primary purpose of a test plan is to evaluate user feedback and ensure the software meets user requirements."
+                },
+                {
+                    "questionText": "Which of the following is a key component of an IT test plan?",
+                    "correctOption": "Dj Test objectives and scope",
+                    "options": [
+                        "A) Hardware specifications",
+                        "B) Marketing strategies",
+                        "C) Budget allocation",
+                        "Dj Test objectives and scope"
+                    ],
+                    "chosenOption": null,
+                    "incorrectOption_explanation": "Options A, B, and C are not directly related to IT test planning. Test objectives and scope are crucial elements that define what will be tested and how."
+                },
+                {
+                    "questionText": "What is the main purpose of defining test objectives in an IT test plan?",
+                    "correctOption": "C) To establish criteria for test success",
+                    "options": [
+                        "A) To specify the coding standards",
+                        "B) To identify the testing environment",
+                        "C) To establish criteria for test success",
+                        "D) To define the user interface"
+                    ],
+                    "chosenOption": null,
+                    "incorrectOption_explanation": "Options A, B, and D are not the primary focus of defining test objectives. Test objectives determine the conditions that must be met for a test to be considered successful."
+                },
+                {
+                    "questionText": "Which phase of the software development life cycle (SDLC) typically involves creating an IT test plan?",
+                    "correctOption": "B) Design",
+                    "options": [
+                        "A) Requirements analysis",
+                        "B) Design",
+                        "C) Implementation",
+                        "D) Testing"
+                    ],
+                    "chosenOption": null,
+                    "incorrectOption_explanation": "While testing occurs in a dedicated phase, the test plan is typically created during the design phase to define how the software will be tested."
+                }
+            ],
+            "theoryQuestion": {
+                "questionText": "What are some common challenges faced during IT test planning, and how can they be addressed?",
+                "answer": "Some common challenges faced during IT test planning include: Incomplete or unclear requirements: Address this challenge by collaborating closely with stakeholders to clarify requirements and ensure they are well-documented before testing begins. Resource constraints: To address resource constraints, prioritize testing activities based on risk and impact, and consider leveraging automation to increase testing efficiency. Time constraints: Mitigate time constraints by carefully planning the testing schedule, identifying critical paths, and allocating resources effectively. Changing requirements: Implement a robust change management process to handle changing requirements, ensuring that changes are documented, communicated, and incorporated into the test plan as needed. Lack of expertise: Address this challenge by providing training to team members, leveraging external expertise if necessary, and ensuring that the team has the necessary skills to execute the test plan effectively.",
+                "remarks": "Correct"
+            }
+        },
+        {
+            "subject": "Test Execution",
+            "expRequired": "3/3",
+            "aiScore": "75%",
+            "cceNotes": "Hariharan (Senior Software Engineer) (CCE)\nHighlights - Time Stamps > 2m:25s, 3m:13s, 15m:16s",
+            "remarks": "Meets requirements",
+            "AO/KC/LI": "",
+            "questions": [
+                {
+                    "questionText": "What is the primary goal of IT test execution?",
+                    "correctOption": "A) To document test results",
+                    "options": [
+                        "A) To document test results",
+                        "B) To identify defects in the software",
+                        "C) To finalize the test plan",
+                        "D) To prepare the test environment"
+                    ],
+                    "chosenOption": "C) To finalize the test plan",
+                    "incorrectOption_explanation": "Options B, C, and D are not the primary goals of IT test execution. Test execution focuses on running tests and recording results."
+                },
+                {
+                    "questionText": "Which of the following is NOT typically a part of test execution activities?",
+                    "correctOption": "Dj Creating the seat plan",
+                    "options": [
+                        "A) Developing test cases",
+                        "B) Running test cases",
+                        "C) Analyzing test results",
+                        "Dj Creating the seat plan"
+                    ],
+                    "chosenOption": "A) Developing test cases",
+                    "incorrectOption_explanation": "Options A, B, and C are all essential parts of test execution activities. Creating a seating plan is not typically relevant to test execution."
+                },
+                {
+                    "questionText": "What is regression testing?",
+                    "correctOption": "B) Testing the entire system",
+                    "options": [
+                        "A) Testing newly added features only",
+                        "B) Testing the entire system",
+                        "C) Testing the system with a focus on performance",
+                        "Dj Testing the system with a focus on security vulnerabilities"
+                    ],
+                    "chosenOption": "A) Testing newly added features only",
+                    "incorrectOption_explanation": "Option A is a narrow scope testing, while regression testing aims to verify the entire system functionality after modifications."
+                },
+                {
+                    "questionText": "When should test execution activities ideally begin?",
+                    "correctOption": "D) After the test plan is finalized",
+                    "options": [
+                        "A) After the software is deployed to production",
+                        "B) During the requirements gathering phase",
+                        "C) After the test environment is set up",
+                        "D) After the test plan is finalized"
+                    ],
+                    "chosenOption": "B) During the requirements gathering phase",
+                    "incorrectOption_explanation": "Options A, B, and C are not ideal times to begin test execution. Test execution should commence after the test plan is finalized to ensure a structured testing approach."
+                },
+                {
+                    "questionText": "What is the purpose of documenting test results during test execution?",
+                    "correctOption": "A) To create a historical record of testing activities",
+                    "options": [
+                        "A) To create a historical record of testing activities",
+                        "B) To justify the need for additional resources",
+                        "C) To finalize the test plan",
+                        "D) To prepare for user acceptance testing"
+                    ],
+                    "chosenOption": "C) To finalize the test plan",
+                    "incorrectOption_explanation": "Options B, C, and D are not the primary purposes of documenting test results. Documentation serves as a historical record for future reference, tracking progress, and identifying trends."
+                }
+            ],
+            "theoryQuestion": {
+                "questionText": "What is the difference between smoke testing and sanity testing in the context of IT test execution?",
+                "answer": "Smoke testing and sanity testing are both types of initial tests performed on a software build, but they serve different purposes. Smoke testing is a broad test of the entire system to ensure that it is stable enough for more detailed testing. It is typically performed after a new build is received and focuses on major functionalities. If the smoke test fails, it indicates that the build is too unstable for further testing and needs to be fixed before additional testing can be performed. Sanity testing, on the other hand, is a narrow and deep test that focuses on specific areas of functionality that are most likely to have been affected by recent changes. It is performed after smoke testing and aims to verify that specific issues have been addressed. Sanity testing helps ensure that the most critical aspects of the software are working correctly before more extensive testing is conducted.",
+                "remarks": "Correct"
+            }
+        },
+        {
+            "subject": "Effective Communication",
+            "expRequired": "4/5",
+            "aiScore": "80%",
+            "cceNotes": "Christopher Nolan (Senior Software Engineer) (CCE)\nHighlights - Time Stamps > 2m:25s, 3m:13s, 15m:16s",
+            "remarks": "Meets requirements",
+            "AO/KC/LI": "Christopher Nolan (Senior Software Engineer) (CCE)\nHighlights - Time Stamps > 2m:25s, 3m:13s, 15m:16s",
+            "questions": [
+                {
+                    "questionText": "Which of the following is NOT a key element of effective communication?",
+                    "correctOption": "Speaking loudly",
+                    "options": [
+                        "A) Active listening",
+                        "B) Nonverbal communication",
+                        "C) Clarity and conciseness",
+                        "D) Speaking loudly"
+                    ],
+                    "chosenOption": null,
+                    "incorrectOption_explanation": "Active listening, nonverbal communication, and clarity are all important for effective communication. Speaking loudly may not always be necessary and can sometimes be counterproductive."
+                },
+                {
+                    "questionText": "What is active listening?",
+                    "correctOption": "B) Listening and responding with full attention",
+                    "options": [
+                        "A) Hearing words without paying attention",
+                        "B) Listening and responding with full attention",
+                        "C) Interrupting the speaker to ask questions",
+                        "D) Ignoring the speaker's emotions"
+                    ],
+                    "chosenOption": null,
+                    "incorrectOption_explanation": "Active listening involves paying close attention to the speaker, both verbally and nonverbally. It also involves responding in a way that shows you understand what the speaker is saying."
+                },
+                {
+                    "questionText": "Which of the following is NOT considered an ADL (Activity of Daily Living)?",
+                    "correctOption": "A) Speaking",
+                    "options": [
+                        "A) Speaking",
+                        "B) Writing an email",
+                        "C) Making eye contact",
+                        "D) Texting"
+                    ],
+                    "chosenOption": null,
+                    "incorrectOption_explanation": "ADLs are the basic tasks that people need to be able to do to live independently. Speaking, writing an email, making eye contact, and texting can all be considered ADLs."
+                },
+                {
+                    "questionText": "Why is empathy important in communication?",
+                    "correctOption": "B) It shows understanding and respect",
+                    "options": [
+                        "A) It helps to manipulate others",
+                        "B) It shows understanding and respect",
+                        "C) It allows one to dominate conversations",
+                        "Dj It makes communication boring"
+                    ],
+                    "chosenOption": null,
+                    "incorrectOption_explanation": "Empathy is the ability to understand and share the feelings of another person. It is important in communication because it helps you to build rapport with the other person and to see things from their perspective."
+                },
+                {
+                    "questionText": "Which of the following statements about feedback is true?",
+                    "correctOption": "C) Feedback should be specific, constructive, and timely",
+                    "options": [
+                        "A) Feedback should always be negative to encourage improvement",
+                        "B) Feedback should be given immediately",
+                        "C) Feedback should be specific, constructive, and timely",
+                        "D) Feedback is not necessary in effective communication"
+                    ],
+                    "chosenOption": null,
+                    "incorrectOption_explanation": "Effective feedback is specific, constructive, and timely. It should focus on the behavior, not the person, and it should be delivered in a way that is helpful and respectful."
+                }
+            ],
+            "theoryQuestion": {
+                "questionText": "What is effective communication and why is it important in various aspects of life?",
+                "answer": "Effective communication is the process of exchanging information, thoughts, ideas, and feelings in a way that is clear, concise, and easily understood by the recipient. It involves both verbal and nonverbal elements, such as speaking, listening, writing, and interpreting body language. Effective communication is important in various aspects of life because it helps to build and maintain relationships, resolve conflicts, convey information accurately, and foster understanding and trust. In personal relationships, effective communication can strengthen bonds and prevent misunderstandings. In professional settings, it is crucial for teamwork, leadership, customer service, and career advancement. Overall, effective communication is essential for success and well-being in both personal and professional life.",
+                "remarks": "Correct"
+            }
+        },
+        {
+            "subject": "SQL",
+            "expRequired": "4/5",
+            "aiScore": "90%",
+            "cceNotes": "Richard Luis (Senior Software Engineer) (CCE) \nHighlights - Time Stamps > 2m:25s, 3m:13s, 15m:16s",
+            "remarks": "Meets requirements",
+            "AO/KC/LI": "",
+            "questions": [
+                {
+                    "questionText": "Which SQL keyword is used to retrieve data from a database?",
+                    "correctOption": "A) SELECT",
+                    "options": [
+                        "A) SELECT",
+                        "B) UPDATE",
+                        "C) DELETE",
+                        "D) INSERT"
+                    ],
+                    "chosenOption": null
+                },
+                {
+                    "questionText": "Which SQL statement is used to update data in a database?",
+                    "correctOption": "B) UPDATE",
+                    "options": [
+                        "A) SELECT",
+                        "B) UPDATE",
+                        "C) DELETE",
+                        "D) MODIFY"
+                    ],
+                    "chosenOption": null
+                },
+                {
+                    "questionText": "Which SQL clause is used to filter records?",
+                    "correctOption": "C) WHERE",
+                    "options": [
+                        "A) ORDER BY",
+                        "B) GROUP BY",
+                        "C) WHERE",
+                        "D) HAVING"
+                    ],
+                    "chosenOption": null
+                },
+                {
+                    "questionText": "Which SQL statement is used to delete data from a database?",
+                    "correctOption": "A) DELETE",
+                    "options": [
+                        "A) DELETE",
+                        "B) DROP",
+                        "C) TRUNCATE",
+                        "D) REMOVE"
+                    ],
+                    "chosenOption": null
+                },
+                {
+                    "questionText": "Which SQL function is used to find the maximum value in a column?",
+                    "correctOption": "A) MAX()",
+                    "options": [
+                        "A) MAX()",
+                        "B) MIN()",
+                        "C) AVG()",
+                        "D) SUM()"
+                    ],
+                    "chosenOption": null
+                }
+            ],
+            "theoryQuestion": {
+                "questionText": "Write an SQL query to retrieve the names of all employees who work in the 'IT' department.",
+                "answer": "SELECT name \\nFROM employees \\nWHERE department = 'IT';",
+                "remarks": "Correct"
+            }
+        },
+        {
+            "subject": "JavaScript",
+            "expRequired": "3/6",
+            "aiScore": "70%",
+            "cceNotes": "Richard Luis (Senior Software Engineer) (CCE) \nHighlights - Time Stamps > 2m:25s, 3m:13s, 15m:16s",
+            "remarks": "Meets requirements",
+            "AO/KC/LI": "",
+            "questions": [
+                {
+                    "questionText": "What Is JavaScript?",
+                    "correctOption": "A) A programming language for building web pages",
+                    "options": [
+                        "A) A programming language for building web pages",
+                        "B) A database management system",
+                        "C) A version control system",
+                        "D) A web browser"
+                    ],
+                    "chosenOption": null
+                },
+                {
+                    "questionText": "Which keyword is used to declare variables In JavaScript?",
+                    "correctOption": "A) var",
+                    "options": [
+                        "A) var",
+                        "B) int",
+                        "C) string",
+                        "D) let"
+                    ],
+                    "chosenOption": null
+                },
+                {
+                    "questionText": "What Is the purpose of the document.getElementById() method in JavaScript?",
+                    "correctOption": "B) To retrieve an HTML element based on its ID",
+                    "options": [
+                        "A) To retrieve an HTML element based on its class name",
+                        "B) To retrieve an HTML element based on its ID",
+                        "C) To retrieve an HTML element based on its tag name",
+                        "D) To retrieve an HTML element based on its name attribute"
+                    ],
+                    "chosenOption": null
+                },
+                {
+                    "questionText": "Which event occurs when the user clicks on an HTML element?",
+                    "correctOption": "B) onclick",
+                    "options": [
+                        "A) onmouseover",
+                        "B) onclick",
+                        "C) onchange",
+                        "D) onkeydown"
+                    ],
+                    "chosenOption": null
+                },
+                {
+                    "questionText": "What Is the purpose of the console.log() method in JavaScript?",
+                    "correctOption": "A) To display a message in the browser console",
+                    "options": [
+                        "A) To display a message in the browser console",
+                        "B) To display an alert message",
+                        "C) To log errors to the server",
+                        "D) To print a message to the screen"
+                    ],
+                    "chosenOption": null
+                }
+            ],
+            "theoryQuestion": {
+                "questionText": "Write a JavaScript function that takes two numbers as parameters and returns their sum.",
+                "answer": "function addNumbers(num1, num2) {\\n\\t return num1 + num2;\\n}\\n// Example usage\\nconsole.log(addNumbers(5, 10)); // Output: 15 \\n",
+                "remarks": "Correct"
+            }
+        }
+    ],
+      "educationalQualifications": [
+          {
+              "qualificationDemanded": "Nursing Certification",
+              "qualificationClaimed": "Nursing Certification",
+              "attachments": "View",
+              "hrNotes": {
+                  "notes": "Candidate's certification matches the required qualification",
+                  "hrName": "@tinar008"
+              },
+              "remarks": "Meets requirements"
+          },
+          {
+              "qualificationDemanded": "Bachelor's Degree in Nursing or related field",
+              "qualificationClaimed": "Bachelor of Science in Nursing (BSN)",
+              "attachments": "View",
+              "hrNotes": {
+                  "notes": "While the qualification claimed is not precisely the same as demanded, the candidate's BSN demonstrates advanced knowledge and skills in nursing, which are highly relevant to the role",
+                  "hrName": "@tinar008"
+              },
+              "remarks": "Meets requirements"
+          }
+      ],
+      "professionalQualifications": [
+        {
+            "qualificationDemanded": "AWS Certified Solutions Architect",
+            "qualificationClaimed": "AWS Certified Solutions Architect - Associate",
+            "attachments": "View",
+            "hrNotes": {
+                "notes": "Candidate's certification matches the required qualification.",
+                "hrName": "@tinar008"
+            },
+            "remarks": "Meets requirements"
+        },
+        {
+            "qualificationDemanded": "Project Management Professional (PMP)",
+            "qualificationClaimed": "Project Management Professional (PMP)",
+            "attachments": "View",
+            "hrNotes": {
+                "notes": "Candidate's certification confirms competency in Agile methodologies.",
+                "hrName": "@tinar008"
+            },
+            "remarks": "Meets requirements"
+        }
+    ],
+      "professionalToolsExperience": [
+        {
+            "toolsDemanded": "Jira",
+            "experienceClaimed": "Yes",
+            "attachments": "View",
+            "cceNotes": {
+                "notes": "Candidate's certification matches the required qualification.",
+                "cceName": "@david215"
+            },
+            "remarks": "Meets requirements"
+        },
+        {
+            "toolsDemanded": "Selenium",
+            "experienceClaimed": "Yes",
+            "attachments": "View",
+            "cceNotes": {
+                "notes": "Candidate's qualification verifies competency in risk management procedures.",
+                "cceName": "@david215"
+            },
+            "remarks": "Meets requirements"
+        },
+        {
+            "toolsDemanded": "Git",
+            "experienceClaimed": "Yes",
+            "attachments": "View",
+            "cceNotes": {
+                "notes": "Candidate's qualification verifies competency in risk management procedures.",
+                "cceName": "@david215"
+            },
+            "remarks": "Meets requirements"
+        }
+    ],
+      "otherPaperwork": {
+          "category": "Other paper work required, if any!",
+          "hrName": "@tinar968",
+          "notes": "None Requested",
+          "remarks": ""
+      },
+      "rimtInformation": [
+          {
+              "mediumName": "ITRFG",
+              "density": "Nationwide",
+              "startDate": " 12-01-2024",
+              "endDate": "03-03-2024",
+              "totalCVs": "30"
+          },
+          {
+              "mediumName": "ITRFG",
+              "density": "Nationwide",
+              "startDate": "12th June 2024",
+              "endDate": "0-03-2024",
+              "totalCVs": "12"
+          }
+      ],
+      "meetingHistory": [
+          {
+              "meeting_name": "Lorem ipsum ",
+              "date": "22-07-2024",
+              "organizer": "216. CCE"
+          },
+          {
+              "meeting_name": "Lorem ipsum ",
+              "date": "22-07-2024",
+              "organizer": "ch420CCE"
+          },
+          {
+              "meeting_name": "Lorem ipsum ",
+              "date": "22-07-2024",
+              "organizer": "@chris655 CCE"
+          },
+          {
+              "meeting_name": "Lorem ipsum",
+              "date": "22-07-2024",
+              "organizer": "ChESE CCE"
+          },
+          {
+              "meeting_name": "Lorem ipsum",
+              "date": "22-07-2024",
+              "organizer": "davit216 CCE"
+          },
+          {
+              "meeting_name": "Lorem ipsum",
+              "date": "22-07-2024",
+              "organizer": "david218 CCE"
+          },
+          {
+              "meeting_name": "Loren ipsum",
+              "date": "22-07-2024",
+              "organizer": "nar960 HR"
+          }
+      ],
+      "authors": [
+          {
+              "name": "Willaims Grande (HR Manager)",
+              "title": "AO"
+          },
+          {
+              "name": "Noah Philips (Team Lead)",
+              "title": "KC"
+          },
+          {
+              "name": "Vishnu Vardhan (Senior Engineer)",
+              "title": "L1"
+          },
+          {
+              "name": "David Martin (Recruitment Specialist) - Assigned to - Bachelor's Degree in Computer Science & Project Management Professional (PMP) \nRichard Luis (Senior Software Engineer) - Assigned to - SQL & Java Script\nChristopher Nolan (Senior Software Engineer) - Assigned to - Effective Communication, Selenium & Git\nHariharan (Senior Software Engineer) - Assigned to - Test Execution & Jira \nKishan (Recruitment Specialist) - Assigned to - AWS Certified Solutions Architect",
+              "title": "CCE"
+          },
+          {
+              "name": "Tina Lophes (HR Director)",
+              "title": "HR"
+          },
+          {
+              "name": "Ravi Sundhar Reddy ( Software Developer )",
+              "title": "Employee"
+          }
+      ],
+      "additionalSkill": [
+          {
+              "skill": "Skill Name",
+              "exp": "Experience"
+          },
+          {
+              "skill": "Skill Name",
+              "exp": "Experience"
+          },
+          {
+              "skill": "Skill Name",
+              "exp": "Experience"
+          },
+          {
+              "skill": "Skill Name",
+              "exp": "Experience"
+          },
+          {
+              "skill": "Skill Name",
+              "exp": "Experience"
+          }
+      ]
+  }
+]
